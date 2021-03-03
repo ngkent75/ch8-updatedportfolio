@@ -29,7 +29,7 @@ New About Me section.
 
 <br>
 
-![Screenshot of Summary](assets/images/demo.PNG)
+![Screenshot of Summary](assets/Images/demo.PNG)
 
 <br>
 
@@ -37,7 +37,7 @@ New About Me section.
 
 <br>
 
-![Screenshot of Projects](assets/images/projects.PNG)
+![Screenshot of Projects](assets/Images/projects.PNG)
 
 <br>
 
@@ -45,7 +45,7 @@ Link to resume added.
 
 <br>
 
-![Screenshot of Resume](assets/images/resume.PNG)
+![Screenshot of Resume](assets/Images/resume.PNG)
 
 <br>
 
